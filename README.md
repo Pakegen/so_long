@@ -12,3 +12,5 @@ https://anokolisa.itch.io/dungeon-crawler-pixel-art-asset-pack
 https://harm-smits.github.io/42docs/libs/minilibx
 
 https://github.com/codam-coding-college/MLX42
+
+https://www.youtube.com/watch?v=lajdkY953uA
