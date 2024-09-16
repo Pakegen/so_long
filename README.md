@@ -25,6 +25,7 @@ https://www.youtube.com/watch?v=lajdkY953uA
 -https://gist.github.com/veganaize/84876f1a391fe10471703ac7e4fd6bd7#file-aseprite-build-linux-md
 
 -----------pixelart gratuit :
+
 https://anokolisa.itch.io/dungeon-crawler-pixel-art-asset-pack
 
 ----------pour l inspi artistique:
@@ -39,6 +40,8 @@ https://harmless-canopy-b3a.notion.site/15cf557396fc44d9b306e8e2ec8047dc?v=51dd5
 ----------idee d autre eleve:
 
 https://github.com/Jsarda42/so_long/blob/main/src/handle_ghost.c
+
+https://github.com/ForAbby-X/so_long
 
 ----------floot fills backtracking
 https://blog.seancoughlin.me/mastering-the-flood-fill-algorithm-a-leetcode-tutorial-for-software-engineers
