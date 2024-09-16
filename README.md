@@ -1,7 +1,11 @@
 # so_long
 
 
-lien utile 
+# lien utile :
+
+------documentation so long
+
+https://github.com/ForAbby-X/so_long.git
 
 https://d8s.eu/blog/2022-06-06-c-game-project-example-cursedinal/
 
@@ -16,19 +20,22 @@ https://github.com/codam-coding-college/MLX42
 https://www.youtube.com/watch?v=lajdkY953uA
 
 
--logiciel aseprite pour faire son propre pixelart
+----------logiciel aseprite pour faire son propre pixelart:
 
---https://gist.github.com/veganaize/84876f1a391fe10471703ac7e4fd6bd7#file-aseprite-build-linux-md
+-https://gist.github.com/veganaize/84876f1a391fe10471703ac7e4fd6bd7#file-aseprite-build-linux-md
 
+-----------pixelart gratuit :
+https://anokolisa.itch.io/dungeon-crawler-pixel-art-asset-pack
 
-pour l inspi artistique 
+----------pour l inspi artistique:
+
 https://www.pixilart.com/
 
-tuto minilibx
+----------tuto minilibx :
 
 https://harmless-canopy-b3a.notion.site/15cf557396fc44d9b306e8e2ec8047dc?v=51dd50cac2f1472e83bb138ffca3d2c8&pvs=4
 
 
-idee d autre eleve 
+----------idee d autre eleve:
 
 https://github.com/Jsarda42/so_long/blob/main/src/handle_ghost.c
