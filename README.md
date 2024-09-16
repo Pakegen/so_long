@@ -39,3 +39,6 @@ https://harmless-canopy-b3a.notion.site/15cf557396fc44d9b306e8e2ec8047dc?v=51dd5
 ----------idee d autre eleve:
 
 https://github.com/Jsarda42/so_long/blob/main/src/handle_ghost.c
+
+----------floot fills backtracking
+https://blog.seancoughlin.me/mastering-the-flood-fill-algorithm-a-leetcode-tutorial-for-software-engineers
