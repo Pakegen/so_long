@@ -5,6 +5,8 @@
 
 ------documentation so long
 
+https://github.com/augustobecker/so_long/blob/main/Makefile
+
 https://github.com/ForAbby-X/so_long.git
 
 https://d8s.eu/blog/2022-06-06-c-game-project-example-cursedinal/
