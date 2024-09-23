@@ -36,6 +36,9 @@ https://www.pixilart.com/
 
 https://harmless-canopy-b3a.notion.site/15cf557396fc44d9b306e8e2ec8047dc?v=51dd50cac2f1472e83bb138ffca3d2c8&pvs=4
 
+#MAKEFILE
+
+http://eric.bachard.free.fr/UTBM_LO22/P07/C/Documentation/C/make/intro_makefile.pdf
 
 ----------idee d autre eleve:
 
