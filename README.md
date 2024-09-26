@@ -25,6 +25,9 @@ https://github.com/codam-coding-college/MLX42
 
 https://www.youtube.com/watch?v=lajdkY953uA
 
+----------42CLI
+
+https://github.com/herbievine/42-cli
 
 ----------logiciel aseprite pour faire son propre pixelart:
 
