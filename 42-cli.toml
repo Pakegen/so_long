@@ -1,0 +1,8 @@
+name = "so_long"
+
+[scripts]
+build = {cmd = "make", mlx = true, mlx_dir = "minilibx" }
+run = [{ "./so_long maps/small.ber" }]
+clean = { cmd = "make fclean", mlx = true, mlx_dir = "minilibx" }
+lint = { cmd = "norminette ."}
+

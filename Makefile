@@ -6,7 +6,7 @@
 #    By: quenalla <quenalla@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2024/09/18 13:34:23 by quenalla          #+#    #+#              #
-#    Updated: 2024/09/23 14:53:25 by quenalla         ###   ########.fr        #
+#    Updated: 2024/09/26 14:09:02 by quenalla         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -22,7 +22,7 @@ MLXFLAGS = -lmlx -lXext -lX11
 
 LIBFT = ./librairies/Libft/libft.a
 
-MLX = ./mlx/
+MLX = ./mlx/libmlx.a
 
 SRC_DIR = ./src/
 
@@ -44,7 +44,7 @@ $(NAME_BONUS):
 
 $(LIBFT):
 	make all -C librairies/Libft/
-	make bonus -c librairies/Libft/
+	make bonus -C librairies/Libft/
 
 $(MLX):
 	make -C mlx/
@@ -52,14 +52,14 @@ $(MLX):
 bonus: $(LIBFT) $(MLX) $(NAME_BONUS)
 
 clean:
-	make clean -C librairies/Libft
-	make clean -C mlx
+	make fclean -C librairies/Libft/
+	make fclean -C mlx/
 
 fclean: clean
 	rm -f $(NAME) $(NAME_BONUS)
 
 re: fclean all
 
-rebonus: fclean all
+rebonus: fclean $(NAME_BONUS)
 
 .PHONY: all clean fclean re rebonus
