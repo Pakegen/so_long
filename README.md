@@ -5,6 +5,8 @@
 
 ------documentation so long
 
+https://github.com/ErwanDecoster/42_so_long/blob/main/Makefile
+
 https://github.com/kiri-42/so_long/blob/master/Makefile
 
 https://github.com/augustobecker/so_long/blob/main/Makefile
